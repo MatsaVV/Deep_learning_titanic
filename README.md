@@ -1,3 +1,5 @@
+This project aimed to train me on the use of Azure Machine Learning. The resources no longer exist, so it is not usable.
+
 # Titanic Survival Prediction
 
 This project aims to predict the survival of passengers on the Titanic using machine learning. The project includes data preprocessing, model training, model evaluation, and deployment on Azure Machine Learning using MLflow for experiment tracking and model management.
